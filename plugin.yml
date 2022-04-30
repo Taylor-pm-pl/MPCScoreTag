@@ -1,0 +1,10 @@
+name: MPCScoreTag
+version: 0.0.1
+api: 4.0.0
+main: davidglitch04\MPCScoreTag\Main
+src-namespace-prefix: davidglitch04\MPCScoreTag
+author: DavidGlitch04
+description: A plugin implementing MultiPlayerCounter tags for ScoreHud.
+depend: 
+  - ScoreHud
+  - MultiPlayerCounter
