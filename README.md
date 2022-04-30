@@ -1,2 +1,7 @@
-# MPCScoreTag
-A plugin plugins implementing MultiPlayerCounter tags for ScoreHud. For ScoreHud version 6.0 and above ONLY.
+
+### Available Tags:
+
+| Tag | Description |
+|:--:|:--:|
+|`{mpcscoretag.players}`|Merged Players|
+|`{mpcscoretag.slots}`|Max Slots|
